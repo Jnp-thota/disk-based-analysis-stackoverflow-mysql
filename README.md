@@ -1,7 +1,3 @@
-# DASC5300 Assignment 3
-
-This assignment focuses on leveraging MySQL for disk-based analysis. You will import a large dataset into a MySQL database and conduct a series of queries to extract meaningful insights.
-
 # Objectives
 
 - Import the data into a MySQL database
