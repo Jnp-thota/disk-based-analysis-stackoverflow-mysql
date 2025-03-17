@@ -1,0 +1,33 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": ":>",
+			"path": "../../Downloads/kibana-8.11.1/node_modules/@kbn/saved-objects-tagging-plugin/server/services/assignments/:>"
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"mysqlOptions": {
+					"authProtocol": "default",
+					"enableSsl": "Disabled"
+				},
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 3306,
+				"driver": "MySQL",
+				"name": "FOC",
+				"database": "MYSQL",
+				"username": "root",
+				"password": "Prakash$124"
+			}
+		],
+		"dataworkspace.excludedProjects": [
+			"assignment-3-Jnp-thota/mysql+mysqlconnector:/:>/:>.sqlproj",
+			":>/:>.sqlproj"
+		]
+	}
+}
